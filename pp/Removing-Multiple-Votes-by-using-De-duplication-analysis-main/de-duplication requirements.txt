@@ -1,0 +1,8 @@
+pip install pandas==0.25.3
+pip install numpy==1.19.2
+pip install Django==2.1.7
+pip install PyMySQL==0.9.3
+
+install python 3.7.0 and then install above packages and then install MYSQL and give password as root
+after installation open MYSQL and copy content from DB.txt file and paste in MYSQL to create database
+and then double click on 'run.bat' to start server and then run code by following screens shots
